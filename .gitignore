@@ -1,0 +1,6 @@
+# whitelist
+*
+!.gitignore
+!main.c
+!makefile
+!README.md
